@@ -14,9 +14,15 @@
 
 img {
   padding: 5px;
+  float: left;
 }
 
-p{
+p {
   margin-top: 15px;
   margin-bottom: 15px;
+}
+
+.column {
+  width: 40px;
+  float: right;
 }
