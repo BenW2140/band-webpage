@@ -26,3 +26,16 @@ p {
   width: 40px;
   float: right;
 }
+
+@media screen and (max-width: 480) {
+  body {
+    background-color: Blue;
+    color: orange;
+  }
+}
+
+@media screen and (min-width: 700) {
+  body {
+    background-color: black
+  }
+}
